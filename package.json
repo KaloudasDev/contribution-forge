@@ -1,23 +1,12 @@
 {
   "name": "contribution-graph",
   "version": "1.0.0",
-  "description": "",
+  "description": "GitHub contribution graph generator",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "generate": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/KaloudasDev/contribution-graph.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/KaloudasDev/contribution-graph/issues"
-  },
-  "homepage": "https://github.com/KaloudasDev/contribution-graph#readme",
   "dependencies": {
     "jsonfile": "^6.2.0",
     "moment": "^2.30.1",
