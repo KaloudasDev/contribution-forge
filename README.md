@@ -70,9 +70,9 @@ export const CONFIG = {
 * **Git** installed and configured
 * **Internet connection** for pushing commits
 
+> [!NOTE]
+> Contribution Graph Generator is an educational tool designed for learning Git automation and techniques.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-> [!NOTE]
-> Contribution Graph Generator is an educational tool designed for learning Git automation and techniques.
