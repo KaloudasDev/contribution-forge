@@ -37,7 +37,6 @@ npm run generate
 
 > [!WARNING]
 > Ensure your Git repository is initialized and connected to a remote before running the generator.
-> Running this script modifies your commit history.
 
 ## Configuration
 
@@ -76,4 +75,4 @@ export const CONFIG = {
 This project is licensed under the [MIT License](LICENSE).
 
 > [!NOTE]
-> Contribution Graph Generator is an educational tool designed for learning Git automation and scripting techniques.
+> Contribution Graph Generator is an educational tool designed for learning Git automation and techniques.
