@@ -4,7 +4,7 @@ Professional Node.js automation system that generates realistic GitHub contribut
 
 ## Overview
 
-This repository provides a production-ready script designed to simulate GitHub activity across an entire year.
+This repository provides a production-ready script designed to simulate GitHub activity across an entire year.  
 It intelligently distributes commits based on trends and configurable ratios creating human-like graphs.
 
 ## Features
